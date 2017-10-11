@@ -6,3 +6,6 @@ linea 5
 linea 6 nueva
 linea 7 nueva
 linea 8 nueva
+linea 9 nueva desde el local
+linea 10 nueva desde el local
+linea 11 nueva desde el local
